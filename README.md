@@ -1,1 +1,1 @@
-# salesmeetings_web
+# salesmeetings.ai
